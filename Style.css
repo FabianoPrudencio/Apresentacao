@@ -1,0 +1,46 @@
+﻿body {
+    background-color: #808080; /* Altere a cor de fundo para laranja */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 36px;
+    color: white; /* Altere a cor do texto para branco */
+    text-align: center;
+    margin-top: 10px;
+    background-color: #6A5ACD; /* Altere a cor de fundo para cinza escuro */
+    padding: 10px; /* Adicione um preenchimento interno para melhorar a aparência */
+}
+
+h2 {
+    font-size: 25px;
+    color: white; /* Altere a cor do texto para branco */
+    text-align: center;
+    margin-top: 20px;
+    background-color: #6A5ACD; /* Altere a cor de fundo para cinza escuro */
+    padding: 10px; /* Adicione um preenchimento interno para melhorar a aparência */
+}
+
+h3 {
+    font-size: 25px;
+    color: white; /* Altere a cor do texto para branco */
+    text-align: left;
+    margin-top: 20px;
+    background-color: #6A5ACD; /* Altere a cor de fundo para cinza escuro */
+    padding: 10px; /* Adicione um preenchimento interno para melhorar a aparência */
+}
+
+p {
+    text-align: center;
+    margin-top: 5px;
+    background-color: #6A5ACD; /* Altere a cor de fundo para cinza escuro */
+}
+
+.AVATAR {
+    text-align: center;
+}
+
+.SOCIAIS {
+    margin-top: 1px;
+}
